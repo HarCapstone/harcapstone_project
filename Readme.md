@@ -24,7 +24,7 @@ This is a project to perform Object detection,fall detection,vehicle crash detec
 
 SrNo | Name | Work | Department| Institute | Email id |Photo
 :--|:--|:--|:--|:--|:--| :--|
-1 | Vedant Jadhav | Web-Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://github.com/MrMuzik1"><img src="images/vedant.jpeg" alt="Abhishek Mishra" hight="150px" width="150px"/></a>
+1 | Vedant Jadhav | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://github.com/MrMuzik1"><img src="images/vedant.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
 
 ## How YOLO works ?
 
