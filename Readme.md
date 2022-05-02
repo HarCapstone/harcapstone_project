@@ -146,3 +146,6 @@ Smart Human Activity Detection Using [CLICK HERE](https://hardetection.social/)
 
 ## Future Work
 * As our code uses GPU, it would cost us money to deploy our Models on cloud servers like Google Cloud and AWS. But our future goal is to deploy these models globally from Google Cloud by using their GPU's.
+
+<br>Made with :sparkling_heart: .<br> Serve with 
+:smiley:
