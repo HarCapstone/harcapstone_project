@@ -67,6 +67,7 @@ python obj_Detection.py
 ```
 ### Sample Output:
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/object_1.png?raw=true)
+  ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/object_2.png?raw=true)
 ## Fall Detection
 ### Working
 We take the input video from a source and  divide the video into several frames. Now these frames are converted into black and white. On each frame a person is detected using YOLO. 
