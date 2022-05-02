@@ -66,6 +66,7 @@ pip install -r requirements.txt
 python obj_Detection.py
 ```
 ### Sample Output:
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/object_1.png?raw=true)
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/object_2.png?raw=true)
 ## Fall Detection
 ### Working
