@@ -136,15 +136,15 @@ python vehicle.py
 Smart Human Activity Detection Using [CLICK HERE](https://hardetection.social/)
 
 ### Home Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/homepage.png?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/indexpage_new.jpeg?raw=true)
 ### Object Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/objectpage.png?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/objectpage_new.jpeg?raw=true)
 ### Fall Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/fallpage.png?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/fallpage_new.jpeg?raw=true)
 ### Social Distancing Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/socialpage.png?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/socialpage_new.jpeg?raw=true)
 ### Vehicle Crash Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/vehiclepage.png?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/vehiclepage_new.jpeg?raw=true)
 
 
 ## Future Work
