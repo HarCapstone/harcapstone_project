@@ -24,10 +24,10 @@ This is a project to perform Object detection,fall detection,vehicle crash detec
 
 SrNo | Name | Work | Department| Institute | Email id |Photo
 :--|:--|:--|:--|:--|:--| :--|
-1 | Akshay Raut | Computer Vision Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |akshayrautg@gmail.com | <a href="https://github.com/meakshayraut"><img src="images/akshay.jpg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
-2 | Vedant Jadhav | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://github.com/MrMuzik1"><img src="images/vedant.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
-3 | Atharva Muley | Python Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |atharvamuley5@gmail.com | <a href="https://github.com/atharv070"><img src="images/atharva.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
-4 | Vidhi Jain | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |vidhijain0211@gmail.com | <a href="https://github.com/MrMuzik1"><img src="images/vidhi.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+1 | Akshay Raut | Computer Vision Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |akshayrautg@gmail.com | <a href="https://www.linkedin.com/in/akshay-raut-8a29041a5/"><img src="images/akshay.jpg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+2 | Vedant Jadhav | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://www.linkedin.com/in/vedant-jadhav/"><img src="images/vedant.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+3 | Atharva Muley | Python Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |atharvamuley5@gmail.com | <a href="https://www.linkedin.com/in/atharva-muley-078a931b0/"><img src="images/atharva.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+4 | Vidhi Jain | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |vidhijain0211@gmail.com | <a href="https://www.linkedin.com/in/vidhi-jain-80262716b/"><img src="images/vidhi.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
 
 ## How YOLO works ?
 
