@@ -133,7 +133,7 @@ python vehicle.py
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/crash.png?raw=true)
 
 ## HARCAPSTONE Website
-Smart Human Activity Detection Using [CLICK HERE](https://hardetection.social/)
+To Access our Smart Human Activity Detection Website [CLICK HERE](https://hardetection.social/)
 
 ### Home Page
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/main_page.jpeg?raw=true)
