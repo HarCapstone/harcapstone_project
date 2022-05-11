@@ -136,7 +136,7 @@ python vehicle.py
 Smart Human Activity Detection Using [CLICK HERE](https://hardetection.social/)
 
 ### Home Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/indexpage_new.jpeg?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/main_page.jpeg?raw=true)
 
 
 ## Future Work
