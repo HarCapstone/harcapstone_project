@@ -24,10 +24,10 @@ This is a project to perform Object detection,fall detection,vehicle crash detec
 
 SrNo | Name | Work | Department| Institute | Email id |Photo
 :--|:--|:--|:--|:--|:--| :--|
-1 | Akshay Raut | Computer Vision Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |akshayrautg@gmail.com | <a href="https://www.linkedin.com/in/akshay-raut-8a29041a5/"><img src="images/akshay.jpg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
-2 | Vedant Jadhav | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://www.linkedin.com/in/vedant-jadhav/"><img src="images/vedant.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+1 | Akshay Raut | Python Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |akshayrautg@gmail.com | <a href="https://www.linkedin.com/in/akshay-raut-8a29041a5/"><img src="images/akshay.jpg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+2 | Vedant Jadhav | Full Stack Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |jadhav.vedant02062000@gmail.com | <a href="https://www.linkedin.com/in/vedant-jadhav/"><img src="images/vedant.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
 3 | Atharva Muley | Python Developer  | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |atharvamuley5@gmail.com | <a href="https://www.linkedin.com/in/atharva-muley-078a931b0/"><img src="images/atharva.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
-4 | Vidhi Jain | Web Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |vidhijain0211@gmail.com | <a href="https://www.linkedin.com/in/vidhi-jain-80262716b/"><img src="images/vidhi.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
+4 | Vidhi Jain | Python Developer   | Bachelor of Engineering in Computer Science | Suman Ramesh Tulsiani Technical Campus-Faculty of Engineering , Kamshet |vidhijain0211@gmail.com | <a href="https://www.linkedin.com/in/vidhi-jain-80262716b/"><img src="images/vidhi.jpeg" alt="Vedant Jadhav" hight="150px" width="150px"/></a>
 
 ## How YOLO works ?
 
@@ -57,7 +57,7 @@ You can follow the two part YouTube videos of [Augmented Startups](https://www.y
 
 ## Object Detection
 ### Working
-Simple YOLO program for object detection.
+YOLO program for object detection.
 
 ### Installing the Requirement files:
 ```python
@@ -137,14 +137,6 @@ Smart Human Activity Detection Using [CLICK HERE](https://hardetection.social/)
 
 ### Home Page
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/indexpage_new.jpeg?raw=true)
-### Object Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/objectpage_new.jpeg?raw=true)
-### Fall Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/fallpage_new.jpeg?raw=true)
-### Social Distancing Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/socialpage_new.jpeg?raw=true)
-### Vehicle Crash Detection Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/vehiclepage_new.jpeg?raw=true)
 
 
 ## Future Work
