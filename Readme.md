@@ -137,7 +137,7 @@ Here you will get to know all about Our Smart Human Activity Detection Project i
 To Access our Smart Human Activity Detection Website [CLICK HERE](https://hardetection.social/)
 
 ### Home Page
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/main_page.jpeg?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/Web%20capture_full.jpeg?raw=true)
 
 
 ## Future Work
