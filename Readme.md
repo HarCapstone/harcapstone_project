@@ -2,7 +2,7 @@
 
 Smart Human Activity Detection Using [YOLO](https://pjreddie.com/darknet/yolo/)
 
-![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/har-capstone-7-228x228.jpeg?raw=true)
+![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/har-capstone-7-228x228-removebg-preview.png?raw=true)
 
 This is a project to perform Object detection,fall detection,vehicle crash detection and social distancing detection from Webcam & video.
 
