@@ -134,7 +134,7 @@ python vehicle.py
 
 ## HARCAPSTONE Website
 Here you will get to know all about Our Smart Human Activity Detection Project in detail -
-To Access our Smart Human Activity Detection Website [CLICK HERE](https://hardetection.social/)
+To Access our Smart Human Activity Detection Website [CLICK HERE](https://humandetection.tech/)
 
 ### Home Page
 ![Alt text](https://github.com/HarCapstone/harcapstone_project/blob/main/images/Web%20capture_full.jpeg?raw=true)
